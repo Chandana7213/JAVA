@@ -10,5 +10,9 @@ This repository gives the content related to java programming tasks which are in
 ![Screenshot (43)](https://github.com/Chandana7213/JAVA/assets/131273090/b145f063-ff3d-421b-97f9-d0a34cbab431)
 # StopWatch
 ![Screenshot (41)](https://github.com/Chandana7213/JAVA/assets/131273090/0b9fa1cb-d362-41a0-b5c2-b91c6c06f04b)
+# FolderLocker
+It easily encrypts and decrypts the folder.
+![Screenshot (37)](https://github.com/Chandana7213/JAVA/assets/131273090/2f9898b8-3998-4989-adcc-0adc173f1771)
+
 
 
