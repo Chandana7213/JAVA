@@ -1,6 +1,8 @@
 # MusicStreamer
 This repository tells you how to create a Music Streamer using eclipse. 
 # Screenshots
+![Screenshot (46)](https://github.com/Chandana7213/JAVA/assets/131273090/a482a743-f64a-4fee-8ce6-0e691dd71c33)
+
 ![Screenshot (47)](https://github.com/Chandana7213/MusicStreamer/assets/131273090/b1075ddf-c83b-41d8-8431-3d3bb26738ae)
 
 ![Screenshot (48)](https://github.com/Chandana7213/MusicStreamer/assets/131273090/a8f51283-f845-4fc4-bc58-0992d469f248)
